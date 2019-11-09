@@ -3,7 +3,7 @@
 This sample code has a http trigger function written in javascript and unit tests written in Jest.
 
 ## Jest
-Jest is a javascript testing framework, you can use it to test codes written in javascript, ttypescript, angular, react, node or vue js. 
+Jest is a javascript testing framework, you can use it to test codes written in javascript, typescript, angular, react, node or vue js. 
 
 ## Unit test with Jest
 
